@@ -128,6 +128,8 @@ body{
 
   #carouselCountainer{
     background-color: rgb(255, 255, 255);
+    width:100%;
+    height:100%;
   }
 
   .carousel-inner {
@@ -149,7 +151,7 @@ body{
 
 /* images test */
 #services1 {
-  background-color: chartreuse;
+  background-color: rgb(255, 255, 255);
   padding: 15px;
 }
 

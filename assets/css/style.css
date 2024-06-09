@@ -136,6 +136,7 @@ h6 {
 .navbar {
   padding: 0;
   position: static;
+  background-color: #2f4d5a;
 }
 
 .navbar ul {
